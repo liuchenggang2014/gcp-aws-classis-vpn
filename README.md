@@ -10,3 +10,6 @@ Setup a VPN from GCP to existing VPC on AWS
 2. create ha vpn with 1 interface, 1 addresss and 2 tunnels with aws vgw with 2 tunnels.
 3. create vgw/vpn connnection based on existing vpc
 4. create the vgw and vpc route propogation.
+
+
+### edit version
