@@ -1,4 +1,4 @@
-# gcp-aws-ha-vpn
+# GCP-AWS-HA-VPN
 Setup a VPN from GCP to existing VPC on AWS
 
 ### reference from [Automated Network Deployment: Multicloud VPN - GCP-AWS VPN](https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn)
