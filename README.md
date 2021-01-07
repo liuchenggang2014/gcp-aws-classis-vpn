@@ -1,7 +1,7 @@
 # GCP-AWS-HA-VPN
 Setup a VPN from GCP to existing VPC on AWS
 
-### reference from [Automated Network Deployment: Multicloud VPN - GCP-AWS VPN](https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn)
+### Change and Simplify from [Automated Network Deployment: Multicloud VPN - GCP-AWS VPN](https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn)
 
 - [Automated Network Deployment: Multicloud VPN - GCP-AWS VPN](https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn) is a total fresh new deployment from zero, which means there are no VPC in AWS and GCP envirnment and it create from scratch. but in most cases from GCP side, it's very common to setup an vpn from GCP to an existing VPC in AWS.
 
