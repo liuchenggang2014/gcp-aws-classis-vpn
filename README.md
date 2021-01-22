@@ -13,7 +13,7 @@ Setup a VPN from GCP to existing VPC on AWS
 
 
 #### file description
-- [aws_networking.tf](https://github.com/liuchenggang2014/gcp-aws-ha-vpn/blob/main/aws_networking.tf):  create vgw/cgw/vpn connection on existing vpc; add route propagation on the vpc route table
+- [aws_networking.tf](https://github.com/liuchenggang2014/gcp-aws-ha-vpn/blob/main/aws_networking.tf):  create vgw/cgw/vpn connection on existing vpc; add route propagation on the vpc main route table
 - [aws_security.tf](https://github.com/liuchenggang2014/gcp-aws-ha-vpn/blob/main/aws_security.tf):    create ingress security group by allow the trafic from gcp vpc subnet ip range.
 - [aws_variables.tf](https://github.com/liuchenggang2014/gcp-aws-ha-vpn/blob/main/aws_variables.tf):  aws region/vpc id/credential file path declear and default value
 - [gcp_networking.tf](https://github.com/liuchenggang2014/gcp-aws-ha-vpn/blob/main/gcp_networking.tf): create GCP vpc/subnet/vpn gateway/cloud router/vpn tunnel1,2
