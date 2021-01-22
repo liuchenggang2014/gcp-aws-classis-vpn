@@ -24,7 +24,7 @@ Setup a VPN from GCP to existing VPC on AWS
 
 
 ### deploy guide(we can run it on cloud shell directly)
-- git clone https://github.com/liuchenggang2014/gcp-aws-ha-vpn/
+- git clone https://github.com/liuchenggang2014/gcp-aws-classis-vpn
 - change the terrafor.tfvar according to your setup
 - terraform apply
 
